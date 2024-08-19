@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Wordpress and Laravel**
 
-- 👨‍💻 All of my projects are available at [kierhagos.xyz](kierhagos.xyz)
+- 👨‍💻 All of my projects are available at (https://www.kierhagos.xyz)
 
 - 📫 How to reach me **kierhagos0@gmail.com**
 
