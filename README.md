@@ -1,3 +1,18 @@
+<h1 align="center">Hi 👋, I'm Kier Hagos</h1>
+<h3 align="center">A passionate Software Developer from Philippines</h3>
+
+- 🌱 I’m currently learning **Wordpress and Laravel**
+
+- 👨‍💻 All of my projects are available at [kierhagos.xyz](kierhagos.xyz)
+
+- 📫 How to reach me **kierhagos0@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/code_kier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_kier" height="30" width="40" /></a>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/code_kier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_kier" height="30" width="40" /></a>
