@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kier Hagos</h1>
 <h3 align="center">A passionate Software Developer from Philippines</h3>
 
-- 🌱 I’m currently learning **Wordpress and Laravel**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [kierhagos.xyz](kierhagos.xyz)
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/code_kier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_kier" height="30" width="40" /></a>
+<a href="https://instagram.com/joker.hgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_kier" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
