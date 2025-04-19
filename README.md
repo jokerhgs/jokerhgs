@@ -1,3 +1,5 @@
+# Note: 90% > Commits are private
+
 # About Me :
 I'm Kier, a passionate Software Developer. Dedicated to creating innovative solutions. Let's build something amazing together!
 
